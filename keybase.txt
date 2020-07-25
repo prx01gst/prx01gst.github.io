@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/prx01gst
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://prx01gst.github.io
+  * I am prx01gst (https://keybase.io/prx01gst) on keybase.
+  * I have a public key ASARUp3vmoarhXwsL0m1kVZ0ry4DE1BDfd29AJRy_eXY_Qo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012011529def9a86ab857c2c2f49b5915674af2e031350437dddbd009472fde5d8fd0a",
+      "host": "keybase.io",
+      "kid": "012011529def9a86ab857c2c2f49b5915674af2e031350437dddbd009472fde5d8fd0a",
+      "uid": "5dbda6b6aee13b80fba9a8d04dceaa19",
+      "username": "prx01gst"
+    },
+    "merkle_root": {
+      "ctime": 1595702935,
+      "hash": "90f6fdc30f778b9e8b344e58ddbf3cdbbc573ca841c3fb206b11356c186541292a3761874d61b9d9c8bff832c61620fd2b6fc9adfafb1530a21c9c788d730147",
+      "hash_meta": "159a6fc9c11023982435bac0789d868e878c5c63f83877a27467ae2f0153afac",
+      "seqno": 17083467
+    },
+    "service": {
+      "entropy": "UnbW1aBvdQztdL+nYGPTuXXo",
+      "hostname": "prx01gst.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.5.0"
+  },
+  "ctime": 1595703041,
+  "expire_in": 504576000,
+  "prev": "a27d37ceac349471cdce4ac42ef3b441a6d6b91b60206895e07e7dffb6387166",
+  "seqno": 10,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgEVKd75qGq4V8LC9JtZFWdK8uAxNQQ33dvQCUcv3l2P0Kp3BheWxvYWTESpcCCsQgon03zqw0lHHNzkrELvO0QabWuRtgIGiV4H59/7Y4cWbEIODSroVREv3A4m3UR8IdcKCIP2+1JgqAdDB0EkisiwNtAgHCo3NpZ8RATPBYSTkSESx8dPZ84Zf3ysGsvdIJXuciiL7pIQ77hSF8RaZHxdBphZ+y4m+arJrivpmWy15H8KBgHH6h2HzQCahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIC3+f9ZjIyBs+6vZMnQNqQ8hYFD9T+IOYe50okz8/gCao3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/prx01gst
+
+==================================================================
